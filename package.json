@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo1",
+  "version": "1.0.0",
+  "description": "Primer ejemplo del uso de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "apirest",
+    "ejemplo"
+  ],
+  "author": "Claus Chocho",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
